@@ -1,4 +1,4 @@
-# Symptom Diary
+# Offline Symptom Diary
 
 A personal iOS diary for recording symptoms, moods, body areas, medications, activities, water intake, and period history. Customizable Quick Logs make recurring entries easy, while calendars, charts, body heat maps, and reports help you review what you have recorded.
 
